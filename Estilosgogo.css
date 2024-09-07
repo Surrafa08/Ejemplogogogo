@@ -9,7 +9,7 @@ div{
     padding: 2%;
     box-shadow: 4px 4px 4px red;
     position: relative;
-    display: flex;
+    display: flex-wrap;
     flex-direction: column;
 }
 
